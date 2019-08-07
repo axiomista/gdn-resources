@@ -5,8 +5,8 @@
 ## Building And Growing A Meetup
 
 ## Suggestions for Meetup Content
-- [Events](../event-ideas.md)
-- [Speakers](../speaker-list.md)
+- [Events](../events/event-ideas.md)
+- [Speakers](../events/speaker-list.md)
 
 ## Promoting your Meetup
 
